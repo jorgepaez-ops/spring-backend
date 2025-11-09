@@ -37,7 +37,7 @@ This project is part of a fullstack environment that demonstrates:
 git clone https://github.com/<your-username>/spring-backend-lab.git
 cd spring-backend-lab
 
-3️⃣ Build the project
+### 3️⃣ Build the project
 mvn clean install
 
 4️⃣ Run the application
